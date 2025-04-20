@@ -24,6 +24,8 @@ This project focuses on cleaning and preparing **Olist** sales data for future a
 - `notebook.ipynb`: Jupyter notebook with the code used for cleaning, analysis, and payment checks
 - `README.md`: Documentation of the process and project summary
 
+   Note: The raw dataset was sourced from [Kaggle Olist Dataset]([https://www.kaggle.com/olistbr/olist-marketplace](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_orders_dataset.csv)) and has been cleaned for this analysis.
+
 ## 📈 Outcome
 
 The final dataset is clean, structured, and ready for analysis. It includes reconciled payment data and has been verified for payment accuracy. This dataset is ideal for generating reports, conducting deeper analysis, and making data-driven business decisions.
